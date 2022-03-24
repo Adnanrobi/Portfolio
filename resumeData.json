@@ -1,0 +1,112 @@
+{
+  "main": {
+    "name": "Md. Adnan Rahman Robe",
+    "image": "profilepic.jpg",
+    "bio": "I'm a Software-Engineering student, a passionate Front-end Developer.Given the proper opportunity, my continuous effort towards this career path would be beneficial both to my self-development and the organization I will contribute to.",
+    "contactmessage": "Get in touch with me",
+    "email": "adnanrahman@iut-dhaka.edu",
+    "phone": "01878947482",
+    "address": {
+      "street": "http://www.linkedin.com/in/adnanrobi",
+      "city": "https://github.com/Adnanrobi"
+    },
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100011028990557",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "http://www.linkedin.com/in/adnanrobi",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/adnan_rahman_robi/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Adnanrobi",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Islamic University Of Technology",
+        "degree": "Bachelor of Science, Software Engineering",
+        "graduated": "January 2019 - Present",
+        "description": "Currently with a CGPA of 3.35(4.00)"
+      },
+      {
+        "school": "Adamjee Cantonment College",
+        "degree": "Higher Secondary Certificate",
+        "graduated": "June 2015 - May 2017",
+        "description": "Passed with 5.00 GPA(Govt. Scholarship: General pool) "
+      },
+      {
+        "school": "Adamjee Cantonment Public School",
+        "degree": "Secondary School Certificate",
+        "graduated": "January 2005 - May 2015",
+        "description": "Passed with 5.00 GPA(Govt. Scholarship: Talent pool -> PSC,JSC,SSC) "
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "75%"
+      },
+      {
+        "name": "Node",
+        "level": "50%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "MySQL",
+        "level": "60%"
+      },
+      {
+        "name": "DevOps: Azure , AWS",
+        "level": "75%"
+      },
+      {
+        "name": "Testing: Postman, Selenium, Jmeter, BlazeMeter",
+        "level": "40%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Teamup.",
+        "category": "",
+        "image": "1.jpg",
+        "url": "https://github.com/Adnanrobi/teamup."
+      },
+      {
+        "title": "Dairyweb",
+        "category": "",
+        "image": "2.jpg",
+        "url": "https://github.com/Adnanrobi/Dairyweb"
+      },
+      {
+        "title": "ReserveTab",
+        "category": "",
+        "image": "3.jpg",
+        "url": "https://github.com/Adnanrobi/ReserveTab"
+      },
+      {
+        "title": "corpApp",
+        "category": "",
+        "image": "4.jpg",
+        "url": "https://github.com/Adnanrobi/corpApp"
+      }
+    ]
+  }
+}
